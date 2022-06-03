@@ -1,5 +1,7 @@
 ## Project 7
 
+![trippy](p7.png)
+
 Here, in this project, I've created a user-level GitHub Page, and added content to this Page.
 
 I've created repos for each of the labs and projects for the CIT 281 class.
